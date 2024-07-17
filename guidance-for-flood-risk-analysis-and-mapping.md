@@ -10,9 +10,9 @@ Guidance for Flood Risk Analysis and Mapping, Accepting Numerical Models for Use
 
 Requirements for the FEMA Risk Mapping, Assessment, and Planning (Risk MAP) Program are specified separately by statute, regulation, or FEMA policy (primarily the Standards for Flood Risk Analysis and Mapping). This document provides guidance to support the requirements and recommends approaches for effective and efficient implementation. Alternate approaches that comply with all requirements are acceptable.
 
-For more information, please visit the FEMA Guidelines and Standards for Flood Risk Analysis and Mapping webpage ([https://www.fema.gov/guidelines-and-standards-flood-risk-analysis-and- mapping](https://www.fema.gov/guidelines-and-standards-flood-risk-analysis-and-mapping)). Copies of the Standards for Flood Risk Analysis and Mapping policy, related guidance, technical references, and other information about the guidelines and standards development
+For more information, please visit the FEMA Guidelines and Standards for Flood Risk Analysis and Mapping webpage ([https://www.fema.gov/guidelines-and-standards-flood-risk-analysis-and-mapping](https://www.fema.gov/guidelines-and-standards-flood-risk-analysis-and-mapping)). Copies of the Standards for Flood Risk Analysis and Mapping policy, related guidance, technical references, and other information about the guidelines and standards development
 
-process are all available here. You can also search directly by document title at [https://www.fema.gov/resource-document-library.](https://www.fema.gov/resource-document-library)
+process are all available here. You can also search directly by document title at [https://www.fema.gov/resource-document-library](https://www.fema.gov/resource-document-library).
 
 Table of Revisions
 
@@ -36,7 +36,7 @@ Numerical models meeting the minimum requirements of the NFIP are broken into fo
 
 For each of these model types, a computer model may fall into two categories, either Nationally Accepted or Locally Accepted Models. Locally Accepted Models are only allowed for the specific local areas for which they have been accepted and are not applicable nationwide.
 
-For a comprehensive list of Nationally and Locally Accepted Models visit the “Numerical Models Meeting the Minimum Requirements of the National Flood Insurance Program” website at:  [https://www.fema.gov/flood-maps/products-tools/numerical-models. Lin](https://www.fema.gov/flood-maps/products-tools/numerical-models)ks are available at this site for:
+For a comprehensive list of Nationally and Locally Accepted Models visit the “Numerical Models Meeting the Minimum Requirements of the National Flood Insurance Program” website at:  [https://www.fema.gov/flood-maps/products-tools/numerical-models](https://www.fema.gov/flood-maps/products-tools/numerical-models). Links are available at this site for:
 
 - Coastal Numerical Models
 - Hydraulic Numerical Models
@@ -48,7 +48,7 @@ By federal law, FEMA cannot accept Flood Insurance Study (FIS) or map revision r
 
 ## 2. Applicable NFIP Regulations
 
-This guidance document, along with the Numerical Models Meeting the Minimum Requirements of the National Flood Insurance Program” website and the resources referenced within, ensure that FEMA adheres to the federal laws relating to hydrologic and hydraulic analyses in support of flood insurance studies and map revisions meet the criteria set forth in Title 44, Chapter 1, Subchapter B of the Code of Federal Regulations Section 65.6(a)(6).  This section of 44CFR states that: 
+This guidance document, along with the Numerical Models Meeting the Minimum Requirements of the National Flood Insurance Program” website and the resources referenced within, ensure that FEMA adheres to the federal laws relating to hydrologic and hydraulic analyses in support of flood insurance studies and map revisions meet the criteria set forth in Title 44, Chapter 1, Subchapter B of the Code of Federal Regulations Section 65.6(a)(6).  This section of 44CFR states that:
 
 *(6) Any computer program used to perform hydrologic or hydraulic analyses in support of a flood insurance map revision must meet all of the following criteria:*
 
@@ -106,7 +106,7 @@ Once FEMA has determined that the conditions outlined in this chapter have been 
 
 ### 3.3. FEMA Coordination
 
-To determine where to send a certification application, or questions relating to the certification process for inclusion in the Numerical Models Meeting the Minimum Requirements of the NFIP, contact a service representative at FMIX at:  [http://floodmaps.fema.gov/fhm/fmx_main.html.](http://floodmaps.fema.gov/fhm/fmx_main.html)
+To determine where to send a certification application, or questions relating to the certification process for inclusion in the Numerical Models Meeting the Minimum Requirements of the NFIP, contact a service representative at FMIX at:  [http://floodmaps.fema.gov/fhm/fmx_main.html](http://floodmaps.fema.gov/fhm/fmx_main.html).
 
 ## 4. Maintenance of the Accepted Models Lists
 
